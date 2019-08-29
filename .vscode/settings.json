@@ -1,3 +1,5 @@
 {
-    "git.path": "C:\\laragon\\bin\\git\\bin\\git.exe"
+    "git.path":"C:\\laragon\\bin\\git\bin\\git.exe",
+    "php.executablePath": "C:\\laragon\\bin\\php\\php-7.2.11-Win32-VC15-x64"
+
     }
